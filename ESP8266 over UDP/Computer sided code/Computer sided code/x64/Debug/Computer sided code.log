@@ -1,0 +1,3 @@
+﻿  Computer sided code.cpp
+D:\LED_cube\ESP8266 over UDP\Computer sided code\Computer sided code\Computer sided code.cpp(52,86): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Computer sided code.vcxproj -> D:\LED_cube\ESP8266 over UDP\Computer sided code\x64\Debug\Computer sided code.exe
